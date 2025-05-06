@@ -22,3 +22,6 @@
 * **Server Nuker**
 * **Token Checker**
 * **Proxy Checker**
+
+# Important Notes
+Make sure to use this script responsibly and only for ethical purposes.
